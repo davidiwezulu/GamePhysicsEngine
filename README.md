@@ -62,7 +62,7 @@ Contributions are welcome! Please read the CONTRIBUTING.md for guidelines.
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ### Contact
-For any inquiries, please contact David Iwezulu at email@example.com.
+For any inquiries, please contact David Iwezulu at me@davidiwezulu.co.uk.
 ``` 
 
 ---
