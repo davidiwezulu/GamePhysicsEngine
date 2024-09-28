@@ -1,4 +1,4 @@
-# C++ GamePhysicsEngine
+# C++ Game Physics Engine
 
 A robust and efficient C++ physics engine for 2D/3D simulations, featuring collision detection, rigid body dynamics, and soft-body physics. Designed for easy integration into game engines and simulation projects.
 
